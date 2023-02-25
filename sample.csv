@@ -1,7 +1,7 @@
-name, id, point
-aaaaaa1, 82c9b59f-f20b-413c-bab2-2d301335af86, 100
-aaaaaa2, bcf1c7f5-09d1-4741-9d31-8a0b60a6441d, 200
-aaaaaa3, 7a2d9c9b-a4a8-4281-b18d-e2573123dccf, 10
-aaaaaa4, e18fe16c-14b4-492d-b9e6-d642b32f419b, 20
-aaaaaa5, b38670ae-b478-4050-b86e-403f3d33670f, 1000
-aaaaaa6, 96b50e34-d382-4ddf-980d-c5992b5eb70e, 800
+name, id, point,type
+aaaaaa1, 82c9b59f-f20b-413c-bab2-2d301335af86, 100,classA
+aaaaaa2, bcf1c7f5-09d1-4741-9d31-8a0b60a6441d, 200,classA
+aaaaaa3, 7a2d9c9b-a4a8-4281-b18d-e2573123dccf, 10,classB
+aaaaaa4, e18fe16c-14b4-492d-b9e6-d642b32f419b, 20,classB
+aaaaaa5, b38670ae-b478-4050-b86e-403f3d33670f, 1000,classA
+aaaaaa6, 96b50e34-d382-4ddf-980d-c5992b5eb70e, 800,classB
