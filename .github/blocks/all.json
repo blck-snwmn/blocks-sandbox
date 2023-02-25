@@ -1,5 +1,8 @@
 {
   "README.md": {
     "default": "githubnext__blocks-examples__code-block"
+  },
+  "sample.js": {
+    "default": "Wattenberger__blocks__p5-sandbox"
   }
 }
